@@ -10,7 +10,7 @@
 
 🌐订阅链接:_https://raw.githubusercontent.com/eltsen00/myIPTV/refs/heads/main/myIPTV.txt_
 
-🌐订阅链接(代理）:_https://proxy.hshoe.cn/https://raw.githubusercontent.com/eltsen00/myIPTV/refs/heads/main/myIPTV.txt_
+🌐订阅链接(代理）:_https://gh-proxy.com/raw.githubusercontent.com/eltsen00/myIPTV/refs/heads/main/myIPTV.txt_
 
 ## 📖项目说明
 
