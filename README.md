@@ -1,4 +1,4 @@
-# 中国大陆直播源涵盖CCTV与地方卫视
+# 中国大陆直播源,涵盖CCTV与地方卫视
 
 ## 💡项目公告
 
@@ -8,6 +8,7 @@
 ## 📺订阅地址
 
 🌐订阅链接:_[https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u](https://raw.githubusercontent.com/eltsen00/myIPTV/refs/heads/main/myIPTV.txt)_
+
 🌐订阅链接(代理）:_https://proxy.hshoe.cn/https://raw.githubusercontent.com/eltsen00/myIPTV/refs/heads/main/myIPTV.txt_
 
 ## 📖项目说明
