@@ -8,7 +8,7 @@
 
 ## 📺订阅地址
 
-🌐订阅链接:_[https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u](https://raw.githubusercontent.com/eltsen00/myIPTV/refs/heads/main/myIPTV.txt)_
+🌐订阅链接:_https://raw.githubusercontent.com/eltsen00/myIPTV/refs/heads/main/myIPTV.txt_
 
 🌐订阅链接(代理）:_https://proxy.hshoe.cn/https://raw.githubusercontent.com/eltsen00/myIPTV/refs/heads/main/myIPTV.txt_
 
